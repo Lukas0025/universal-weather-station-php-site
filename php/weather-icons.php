@@ -12,8 +12,8 @@
         'mist'              =>  "icons/mist.svg",
         'cloudy'            =>  "icons/cloudy.svg",
         'clear' => (object) [
-            'day'   => "clear-day.svg",
-            'night' => "clear-night.svg"
+            'day'   => "icons/clear-day.svg",
+            'night' => "icons/clear-night.svg"
         ]
     ];
 
