@@ -1,19 +1,19 @@
 <?php
     $weather_icons = (object) [
-        'wind'              =>  "icons/wind.svg",
-        'tornado'           =>  "icons/tornado.svg",
-        'thunderstorms'     =>  "icons/thunderstorms.svg",
-        'snow'              =>  "icons/snow.svg",
-        'rain'              =>  "icons/rain.svg",
+        'wind'              =>  "weather-icons/wind.svg",
+        'tornado'           =>  "weather-icons/tornado.svg",
+        'thunderstorms'     =>  "weather-icons/thunderstorms.svg",
+        'snow'              =>  "weather-icons/snow.svg",
+        'rain'              =>  "weather-icons/rain.svg",
         'partly_cloudy' => (object) [
-            'day'   => "icons/partly-cloudy-day.svg",
-            'night' => "icons/partly-cloudy-night.svg"
+            'day'   => "weather-icons/partly-cloudy-day.svg",
+            'night' => "weather-icons/partly-cloudy-night.svg"
         ],
-        'mist'              =>  "icons/mist.svg",
-        'cloudy'            =>  "icons/cloudy.svg",
+        'mist'              =>  "weather-icons/mist.svg",
+        'cloudy'            =>  "weather-icons/cloudy.svg",
         'clear' => (object) [
-            'day'   => "icons/clear-day.svg",
-            'night' => "icons/clear-night.svg"
+            'day'   => "weather-icons/clear-day.svg",
+            'night' => "weather-icons/clear-night.svg"
         ]
     ];
 
